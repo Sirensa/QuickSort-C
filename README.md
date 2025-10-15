@@ -1,2 +1,2 @@
 # QuickSort-C
-QuickSort algorithm in C.
+QuickSort algorithm in C
